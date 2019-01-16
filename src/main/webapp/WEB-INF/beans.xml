@@ -1,0 +1,17 @@
+
+<beans xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="
+      http://xmlns.jcp.org/xml/ns/javaee
+      http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd" bean-discovery-mode="all">
+      
+      <!--  
+      this is for the CDI and sorting out the injections and things
+      
+       -->
+      
+      
+      <!-- <alternatives>
+        <class>com.qa.service.repository.AccountMapRepository</class>
+    </alternatives> -->
+</beans>
